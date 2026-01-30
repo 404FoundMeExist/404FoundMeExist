@@ -20,31 +20,46 @@ Hello! I'm **Chintya Amelia Putri**, an aspiring **Data Analyst** passionate abo
 Currently, I am developing portfolio projects using Kaggle datasets and real business case studies.
 
 ---
+## 🛠 Tools, Technologies & Libraries
 
-## 🛠 Tools & Technologies
-
+### 📌 Data Analytics & Programming
 <p align="left">
-  <!-- Data Analytics -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="SQL"/>
+</p>
+
+---
+
+### 📚 Data Science Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" title="Matplotlib"/>
+</p>
 
-  <!-- Google Colab -->
+---
+
+### ⚙️ Data Tools & Platforms
+<p align="left">
   <img src="https://img.icons8.com/color/48/google-colab.png" width="50" title="Google Colab"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" width="50" title="Draw.io"/>
+</p>
 
-  <!-- Design & Documentation -->
+---
+
+### 🎨 Design & Documentation Tools
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" title="Canva"/>
-
-  <!-- Draw.io -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" width="50" title="Draw.io"/>
-
-  <!-- Office Tools -->
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="50" title="Word"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50" title="Excel"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="50" title="PowerPoint"/>
 </p>
+
+---
+
+### 🏢 Microsoft Office Suite
+<p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="55" title="Microsoft Office"/>
+</p>
+
+
 
 ---
 
