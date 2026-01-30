@@ -22,21 +22,21 @@ Currently, I am developing portfolio projects using Kaggle datasets and real bus
 ---
 ## 🛠 Tools, Technologies & Libraries
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" title="SQL"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="65" title="github"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65" title="Matplotlib"/>
-  <img src="https://img.icons8.com/color/48/google-colab.png" width="65" title="Google Colab"/>
-  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705"width="65" title="Draw.io"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="65" title="Canva"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" title="Python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" title="SQL"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="65" title="github"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65" title="Pandas"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="65" title="Matplotlib"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/google-colab.png" width="65" title="Google Colab"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705"width="65" title="Draw.io"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" title="Figma"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="65" title="Canva"/>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="left">
   <!-- Office Tools -->
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="65" title="Microsoft Word"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="65" title="Microsoft Excel"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="65" title="Microsoft PowerPoint"/>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="65" title="Microsoft Word"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="65" title="Microsoft Excel"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="65" title="Microsoft PowerPoint"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
