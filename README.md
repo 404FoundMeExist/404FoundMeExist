@@ -1,4 +1,4 @@
-<p align="center>"# CHINTYA AMELIA PUTRI</p>
+# CHINTYA AMELIA PUTRI
 
 Hi,👋 Saya Chintya Amelia Putri
 <p align="left">
