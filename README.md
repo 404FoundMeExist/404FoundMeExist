@@ -49,8 +49,8 @@ Saat ini saya sedang membangun portofolio proyek Data Analyst menggunakan datase
 
 ## 📫 Kontak
 <p align="left">
-  <img src="https://img.icons8.com/color/48/phone.png" width="25" style="vertical-align: middle"/> &nbsp;+62-812-xxxx-xxxx &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="25" style="vertical-align: middle"/> &nbsp;emailkamu@gmail.com &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/phone.png" width="25" style="vertical-align: middle"/> &nbsp;+62-89693481200 &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="25" style="vertical-align: middle"/> &nbsp;chntyamelia2605@gmail.com &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="25" style="vertical-align: middle"/> &nbsp;<a href="https://instagram.com/usernamekamu">instagram.com/usernamekamu</a>
 </p>
 ---
