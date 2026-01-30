@@ -11,6 +11,7 @@ Hi,👋 Saya Chintya Amelia Putri
 Saya memiliki kompetensi dalam bidang analisis data, eksplorasi insight bisnis, dan visualisasi data.  
 Saat ini saya sedang membangun portofolio proyek Data Analyst menggunakan dataset Kaggle dan studi kasus bisnis nyata.
 ---
+
 ## 🛠 Tools & Teknologi
 
 <p align="left">
@@ -23,7 +24,7 @@ Saat ini saya sedang membangun portofolio proyek Data Analyst menggunakan datase
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/drawio.png"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" width="45"/>
   <img src="https://img.icons8.com/color/48/microsoft-word-2019.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
   <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png"/>
@@ -45,12 +46,12 @@ Saat ini saya sedang membangun portofolio proyek Data Analyst menggunakan datase
 
 ## 📫 Kontak
 <p align="left">
-  <a href="chntyamelia2605@gmail.com">
+  <chntyamelia2605@gmail.com>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
- <a href="https://instagram.com/chntyamelia">
+ 
+ <https://instagram.com/chntyamelia>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  
 </p> 
 ---
 
